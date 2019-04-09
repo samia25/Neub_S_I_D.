@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  background-color: azure;
+  }
+ 
+.sign{
+	float:right;
+	padding:20px;
+}
+
+.topnav {
+  
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  background-color:black;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 54px;
+  text-decoration: none;
+  font-size: 17px;
+  
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color:brown;
+  color: white;
+}
+
+
+.news
+	{
+		float: left;
+		padding: 50px 100px;
+		
+	}
+
+p.groove {
+		margin-top:25px;
+		border-style: groove;
+		font-size: 27px;
+		width: 25%;
+	  	border: 4px solid green;
+	  	padding: 3px; 
+		text-align:center;
+		}
+		p{
+			background-color: #ddd;
+		}
+.footer
+	{
+		float: left;
+		padding: 40px 60px;
+		
+		
+	}
+	.current{
+		border-style: groove;
+		width: 100%;
+	  	border: 3px solid green;
+		text-align:center;
+		padding:10px 30px;
+	}
+
+		
+	.get{
+		border-style: groove;
+		width: 100%;
+	  	border: 3px solid green;
+		text-align:center;
+	}
+	
+	.curr{
+		border-style: groove;
+		width: 100%;
+	  	border:2px solid #92EF64;
+		text-align:center;
+	}
+	
+.chatbot{
+	width:300px;
+	border:5px solid black;
+	
+	height:300px;
+	margin:60px;
+	float :left;
+	text-align:center;
+}
+.chat_box h3{
+	text-align:center;
+	
+	
+
+
+
